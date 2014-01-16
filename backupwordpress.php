@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: WP Backup Plugin
-Plugin URI: 
+Plugin URI: http://backupplugin.blogspot.com/
 Description: Simple automated backups of your WordPress powered website with one click restore functionality and Dropbox integration.
-Author: 
+Author: Umar
 Version: 1.0
-Author URI:
+Author URI: http://backupplugin.blogspot.com/
 License: GPLv2 
 */
 

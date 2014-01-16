@@ -1,16 +1,14 @@
 === WP Backup ===
 Contributors: wpbackup
-Author URI: http://www.backupplugin.blogspot.com/
 Tags: back up, backup, backups, database, zip, db, files, archive, wp-cli, dropbox,email,restore
 Requires at least: 3.3.3
 Tested up to: 3.8
-Plugins URI: http://www.backupplugin.blogspot.com
 
 
-Simple automated backups of your WordPress powered website.
+Simple automated backups of your WordPress powered website with restore functionality and dropbox integration.
 
 == Description ==
-http://www.backupplugin.blogspot.com/
+
 WP Backup will back up your entire site including your database and all your files on a schedule that suits you.
 
 = Features =
