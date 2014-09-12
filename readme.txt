@@ -2,7 +2,7 @@
 Contributors: wpbackup
 Tags: back up, backup, backups, database, zip, db, files, archive, wp-cli, dropbox,email,restore
 Requires at least: 3.3.3
-Tested up to: 3.8
+Tested up to: 4.0
 
 
 Simple automated backups of your WordPress powered website with restore functionality and dropbox integration.

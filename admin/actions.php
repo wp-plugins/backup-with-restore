@@ -550,7 +550,7 @@ function hmbkp_send_error_via_email() {
 
 	$error = wp_strip_all_tags( $_POST['hmbkp_error'] );
 
-	wp_mail( 'support@humanmade.co.uk', 'WP Backup Fatal error on ' . parse_url( home_url(), PHP_URL_HOST ), $error, 'From: WP Backup <' . get_bloginfo( 'admin_email' ) . '>' . "\r\n" );
+	wp_mail( 'support@web-settler.com', 'WP Backup Fatal error on ' . parse_url( home_url(), PHP_URL_HOST ), $error, 'From: WP Backup <' . get_bloginfo( 'admin_email' ) . '>' . "\r\n" );
 
 	die;
 

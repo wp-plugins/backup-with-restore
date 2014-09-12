@@ -154,7 +154,7 @@ class HMBKP_Email_Service extends HMBKP_Service {
 
 				$subject = sprintf( __( 'Backup of %s Failed', 'hmbkp' ), $domain );
 
-				$message = sprintf( __( 'WP Backup was unable to backup your site %1$s.', 'hmbkp' ) . "\n\n" . __( 'Here are the errors that we\'re encountered:', 'hmbkp' ) . "\n\n" . '%2$s' . "\n\n" . __( 'If the errors above look like Martian, forward this email to %3$s and we\'ll take a look', 'hmbkp' ) . "\n\n" . __( "Kind Regards,\nThe Apologetic WP Backup Backup Emailing Robot", 'hmbkp' ), home_url(), esc_html( $error_message ), 'support@hmn.md' );
+				$message = sprintf( __( 'WP Backup was unable to backup your site %1$s.', 'hmbkp' ) . "\n\n" . __( 'Here are the errors that we\'re encountered:', 'hmbkp' ) . "\n\n" . '%2$s' . "\n\n" . __( 'If the errors above look like Martian, forward this email to %3$s and we\'ll take a look', 'hmbkp' ) . "\n\n" . __( "Kind Regards,\nThe Apologetic WP Backup Backup Emailing Robot", 'hmbkp' ), home_url(), esc_html( $error_message ), 'support@web-settler.com' );
 
 				wp_mail( $this->get_email_address_array(), $subject, $message, $headers );
 

@@ -5,7 +5,7 @@ Plugin Name: WP Backup Plugin
 Plugin URI: http://backupplugin.blogspot.com/
 Description: Simple automated backups of your WordPress powered website with one click restore functionality and Dropbox integration.
 Author: Umar
-Version: 1.0
+Version: 1.1
 Author URI: http://backupplugin.blogspot.com/
 License: GPLv2 
 */
@@ -13,7 +13,7 @@ License: GPLv2
 /* This is a fork of the BackupWordPress created by Human Made Limited. No need to contact HML for support regarding this plugin */
 
 /*
-Copyright 2011 - 2013 Human Made Limited  (email : support@hmn.md)
+Copyright 2011 - 2013 Human Made Limited  (email : )
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
