@@ -1,6 +1,6 @@
 === WP Backup ===
 Contributors: wpbackup
-Tags: back up, backup, backups, database, zip, db, files, archive, wp-cli, dropbox,email,restore
+Tags: back up, backup, backups, database, zip, db, files, archive, wp-cli, dropbox,email,restore 
 Requires at least: 3.3.3
 Tested up to: 4.0
 
