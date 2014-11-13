@@ -25,3 +25,7 @@ WP Backup will back up your entire site including your database and all your fil
 * Exclude files and folders from your back ups.
 * Good support should you need help.
 * Translations for Spanish, German, Chinese, Romanian, Russian, Serbian, Lithuanian, Italian, Czech, Dutch, French, Basque.
+
+== Screenshots ==
+
+For screenshots and more info visit <a href="http://fixedwp.com/backup-plugin/">Screenshots</a>
