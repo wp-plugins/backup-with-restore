@@ -1,6 +1,6 @@
 === WP Backup ===
 Contributors: wpbackup
-Donate link: http://fixedwp.com/backup-plugin/
+Donate link: http://web-settler.com/wp-backup-plugin/
 Tags: back up, backup, backups, database, zip, db, files, archive, wp-cli, dropbox,email,restore 
 Requires at least: 3.3.3
 Tested up to: 4.0
