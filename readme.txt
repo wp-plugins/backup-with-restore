@@ -28,4 +28,4 @@ WP Backup will back up your entire site including your database and all your fil
 
 == Screenshots ==
 
-For screenshots and more info visit <a href="http://fixedwp.com/backup-plugin/">Screenshots</a>
+For screenshots and more info visit <a href="http://web-settler.com/wp-backup-plugin/">Screenshots</a>
